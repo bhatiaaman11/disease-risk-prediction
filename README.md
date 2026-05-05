@@ -100,5 +100,5 @@ disease-risk-prediction/
 ## Authors
 
 **Amanpreet Bhatia**
-Graduate students - Northeastern University 
+Graduate student - Northeastern University 
 Course - Data Science Engineering with Python (DAMG6105)
