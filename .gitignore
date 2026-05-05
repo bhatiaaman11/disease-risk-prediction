@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Anaconda / environment
+.env
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folders (keep raw and processed data local)
+data/raw/
+data/processed/
+
+# Outputs - models (pickle files are large)
+outputs/models/
+
+# Keep figures (they're useful to show on GitHub)
+# outputs/figures/ is NOT ignored
+
