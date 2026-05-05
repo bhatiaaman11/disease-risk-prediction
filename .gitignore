@@ -23,3 +23,9 @@ outputs/models/
 # Keep figures (they're useful to show on GitHub)
 # outputs/figures/ is NOT ignored
 
+
+# Anaconda internal files
+anaconda_projects/
+
+# Root level stray CSV files
+*.csv
